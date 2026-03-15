@@ -72,7 +72,7 @@ def main():
                 last_peak_time = current_time
 
                 if clap_count == 2:
-                    webbrowser.open("steam://rungameid/570")
+                    webbrowser.open("steam://rungameid/730")
 
     finally:
         stream.stop_stream()
